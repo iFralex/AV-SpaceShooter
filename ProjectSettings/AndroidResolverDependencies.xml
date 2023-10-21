@@ -1,0 +1,30 @@
+<dependencies>
+  <packages>
+    <package>com.google.android.gms:play-services-ads:19.5.0</package>
+    <package>com.google.android.gms:play-services-base:17.6.0</package>
+    <package>com.google.code.gson:gson:2.8.5</package>
+    <package>com.google.firebase:firebase-analytics:18.0.3</package>
+    <package>com.google.firebase:firebase-app-unity:7.2.0</package>
+    <package>com.google.firebase:firebase-auth:20.0.4</package>
+    <package>com.google.firebase:firebase-auth-unity:7.2.0</package>
+    <package>com.google.firebase:firebase-common:19.5.0</package>
+    <package>com.google.firebase:firebase-database:19.7.0</package>
+    <package>com.google.firebase:firebase-database-unity:7.2.0</package>
+  </packages>
+  <files />
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.ShilohCuevas.AVSpaceShooter" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="False" />
+    <setting name="gradleTemplateEnabled" value="False" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="True" />
+    <setting name="useJetifier" value="False" />
+  </settings>
+</dependencies>
